@@ -11,7 +11,7 @@ This project implements a full-stack Sweet Shop Management System
 ### Clone the Project and move to sweet_shop directory
 
 ```bash
-git clone 
+git clone https://github.com/Saiashu12/Sweet_Shop_Management.git
 
 cd sweet_shop
 ```
