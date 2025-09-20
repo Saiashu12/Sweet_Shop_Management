@@ -48,6 +48,28 @@ npm install
 npm start
 ```
 
+Now the project will run in localhost:3000
+
+### My AI Usage
+
+As per project requirements, I leveraged AI responsibly throughout development:
+
+## Tools Used:
+
+ChatGPT (for debugging guidance, generating boilerplate, and test examples)
+
+GitHub Copilot (inline code suggestions, function autocompletion)
+
+## How I Used Them:
+
+Brainstormed API structures and test cases with ChatGPT.
+
+Generated initial controller/service scaffolding with Copilot.
+
+Asked ChatGPT for explanations and code review suggestions when refining logic.
+
+## Reflection:
+AI tools improved my productivity by reducing boilerplate time and helping me focus on logic and testing. However, I ensured that every AI-generated snippet was understood, reviewed, and refactored before committing. This allowed me to maintain full ownership of the project while benefiting from AI acceleration.
 ## API Documentation
 
 ### Authentication Endpoints
