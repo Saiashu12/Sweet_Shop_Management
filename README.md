@@ -144,23 +144,6 @@ Content-Type: application/json
 }
 ```
 
-
-## Screenshots
-
-## Login Page
-![Login Screenshot](./Images/Login_page.png)
-
-## Home Page
-![HomePage](./Images/Main_page.png)
-
-## Admin Sweet Card
-![Admin Sweet Card Page](./Images/Admin_Sweet_Card.png)
-
-## User Sweet Card
-![User Sweet Card](./Images/User_Sweet_Card.png)
-
-
-
 ## 🧪 Testing the Application
 
 ### Frontend Testing (Current)
